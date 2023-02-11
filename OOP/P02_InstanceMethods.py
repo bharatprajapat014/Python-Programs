@@ -10,6 +10,6 @@ class Vehicle():
         print(self)
         print('I have a type')
 
-car = Vehicle()
-print(car)
-car.type()
+car = Vehicle()   
+print(car)        # <__main__. Vehicle object at ------>  
+car.type()        # <__main__. Vehicle object at ------> and I have a type will print
